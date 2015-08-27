@@ -1,0 +1,6 @@
+framework module JiafanKit {
+  umbrella header "JiafanKit.h"
+
+  export *
+  module * { export * }
+}
